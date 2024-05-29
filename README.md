@@ -1,2 +1,2 @@
 # Juego Unruly
-implementacion del juego unruly para la materia algoritmo y estructura de datos I- FIUBA
+implementacion del juego unruly para la materia algoritmos y programación I- FIUBA
