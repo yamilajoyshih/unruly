@@ -1,7 +1,7 @@
 # Juego Unruly
 implementacion del juego unruly para la materia algoritmos y programación I- FIUBA
 
-# Explicación del juego
+## Explicación del juego
 El juego se desarrolla en una grilla de tamaño NxM arbitrario, sea cuadrada o rectangular.
 Cada celda puede estar vacía u ocupada. Las celdas pueden estar ocupadas por dos colores posibles (por ejemplo blanco (0) y negro(1)).
 El juego inicia con algunas celdas ocupadas, con la mayoría vacía.
